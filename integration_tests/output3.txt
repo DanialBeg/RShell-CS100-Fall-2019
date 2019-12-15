@@ -1,0 +1,61 @@
+commented_command_tests.sh
+exit_command_tests.sh
+multiple_commands_tests.sh
+output1.txt
+output2.txt
+output3.txt
+single_command_tests.sh
+total 4192
+drwxr-xr-x   9 danialbeg  staff      288 Nov 14 14:05 .
+drwxr-xr-x  24 danialbeg  staff      768 Nov 14 14:04 ..
+-rwxr-xr-x   1 danialbeg  staff      333 Nov 13 23:35 commented_command_tests.sh
+-rwxr-xr-x   1 danialbeg  staff      344 Nov 13 23:35 exit_command_tests.sh
+-rwxr-xr-x   1 danialbeg  staff      477 Nov 13 23:35 multiple_commands_tests.sh
+-rw-r--r--   1 danialbeg  staff  1626114 Nov 14 14:05 output1.txt
+-rw-r--r--   1 danialbeg  staff       14 Nov 14 14:05 output2.txt
+-rw-r--r--   1 danialbeg  staff      136 Nov 14 14:05 output3.txt
+-rwxr-xr-x   1 danialbeg  staff      327 Nov 13 23:35 single_command_tests.sh
+total 4192
+drwxr-xr-x   9 danialbeg  staff      288 Nov 14 14:05 .
+drwxr-xr-x  24 danialbeg  staff      768 Nov 14 14:04 ..
+-rwxr-xr-x   1 danialbeg  staff      333 Nov 13 23:35 commented_command_tests.sh
+-rwxr-xr-x   1 danialbeg  staff      344 Nov 13 23:35 exit_command_tests.sh
+-rwxr-xr-x   1 danialbeg  staff      477 Nov 13 23:35 multiple_commands_tests.sh
+-rw-r--r--   1 danialbeg  staff  1626114 Nov 14 14:05 output1.txt
+-rw-r--r--   1 danialbeg  staff       14 Nov 14 14:05 output2.txt
+-rw-r--r--   1 danialbeg  staff      774 Nov 14 14:05 output3.txt
+-rwxr-xr-x   1 danialbeg  staff      327 Nov 13 23:35 single_command_tests.sh
+$ commented_command_tests.sh
+exit_command_tests.sh
+multiple_commands_tests.sh
+output1.txt
+output2.txt
+output3.txt
+output4.txt
+output5.txt
+single_command_tests.sh
+total 4208
+drwxr-xr-x  11 danialbeg  staff      352 Nov 14 14:05 .
+drwxr-xr-x  24 danialbeg  staff      768 Nov 14 14:04 ..
+-rwxr-xr-x   1 danialbeg  staff      333 Nov 13 23:35 commented_command_tests.sh
+-rwxr-xr-x   1 danialbeg  staff      344 Nov 13 23:35 exit_command_tests.sh
+-rwxr-xr-x   1 danialbeg  staff      477 Nov 13 23:35 multiple_commands_tests.sh
+-rw-r--r--   1 danialbeg  staff  1626116 Nov 14 14:05 output1.txt
+-rw-r--r--   1 danialbeg  staff       28 Nov 14 14:05 output2.txt
+-rw-r--r--   1 danialbeg  staff     1574 Nov 14 14:05 output3.txt
+-rw-r--r--   1 danialbeg  staff     1162 Nov 14 14:05 output4.txt
+-rw-r--r--   1 danialbeg  staff       10 Nov 14 14:05 output5.txt
+-rwxr-xr-x   1 danialbeg  staff      327 Nov 13 23:35 single_command_tests.sh
+total 4208
+drwxr-xr-x  11 danialbeg  staff      352 Nov 14 14:05 .
+drwxr-xr-x  24 danialbeg  staff      768 Nov 14 14:04 ..
+-rwxr-xr-x   1 danialbeg  staff      333 Nov 13 23:35 commented_command_tests.sh
+-rwxr-xr-x   1 danialbeg  staff      344 Nov 13 23:35 exit_command_tests.sh
+-rwxr-xr-x   1 danialbeg  staff      477 Nov 13 23:35 multiple_commands_tests.sh
+-rw-r--r--   1 danialbeg  staff  1626116 Nov 14 14:05 output1.txt
+-rw-r--r--   1 danialbeg  staff       28 Nov 14 14:05 output2.txt
+-rw-r--r--   1 danialbeg  staff     2344 Nov 14 14:05 output3.txt
+-rw-r--r--   1 danialbeg  staff     1162 Nov 14 14:05 output4.txt
+-rw-r--r--   1 danialbeg  staff       10 Nov 14 14:05 output5.txt
+-rwxr-xr-x   1 danialbeg  staff      327 Nov 13 23:35 single_command_tests.sh
+$ 
